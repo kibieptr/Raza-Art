@@ -1,4 +1,4 @@
-````markdown
+
 # Raza Art
 
 Raza Art adalah situs artikel yang menyediakan platform bagi pengguna untuk membaca dan berbagi artikel tentang teknologi pengembang. Tujuan dari Raza Art adalah untuk menghubungkan komunitas pengembang dengan informasi terbaru dan bermanfaat di bidang teknologi.
