@@ -85,6 +85,11 @@ export default function RootLayout({ children }) {
     });
         `}
         </Script>
+        <Script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID}`}
+          crossorigin="anonymous"
+        />
         <Header />
         {children}
         <Footer />
